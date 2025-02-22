@@ -1,23 +1,23 @@
 # 内容：roblox
 # 域名关键字匹配
 DOMAIN-KEYWORD,roblox
+# 域名匹配
+DOMAIN,www.roblox.com
+DOMAIN,api.roblox.com
+DOMAIN,clientsettings.api.roblox.com
+DOMAIN,versioncompatibility.api.roblox.com
+DOMAIN,chat.roblox.com
+DOMAIN,chatsite.roblox.com
+DOMAIN,assetgame.roblox.com
+DOMAIN,setup.roblox.com
+DOMAIN,setup.rbxcdn.com
+DOMAIN,cdn.arkoselabs.com
+DOMAIN,roblox-api.arkoselabs.com
+DOMAIN,js.rbxcdn.com
+DOMAIN,static.rbxcdn.com
+DOMAIN,captcha.roblox.com
 # 域名后缀匹配
 DOMAIN-SUFFIX,roblox.com
 DOMAIN-SUFFIX,arkoselabs.com
 DOMAIN-SUFFIX,rbxcdn.com
 DOMAIN-SUFFIX,rbx.com
-DOMAIN-SUFFIX,www.roblox.com
-DOMAIN-SUFFIX,api.roblox.com
-DOMAIN-SUFFIX,clientsettings.api.roblox.com
-DOMAIN-SUFFIX,versioncompatibility.api.roblox.com
-DOMAIN-SUFFIX,chat.roblox.com
-DOMAIN-SUFFIX,chatsite.roblox.com
-DOMAIN-SUFFIX,assetgame.roblox.com
-DOMAIN-SUFFIX,setup.roblox.com
-DOMAIN-SUFFIX,setup.rbxcdn.com
-DOMAIN-SUFFIX,cdn.arkoselabs.com
-DOMAIN-SUFFIX,roblox-api.arkoselabs.com
-DOMAIN-SUFFIX,js.rbxcdn.com
-DOMAIN-SUFFIX,static.rbxcdn.com
-DOMAIN-SUFFIX,captcha.roblox.com
-DOMAIN-SUFFIX,assetgame.roblox.com
