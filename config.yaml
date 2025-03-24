@@ -2,7 +2,7 @@
 # 机场订阅
 proxy-providers:
   Airport1:
-    url: "https://www.djjc.cfd/api/v1/client/subscribe?token=2f27c2ffd671722082c450efc180e86d"
+    url: "订阅链接"
     type: http
     interval: 86400
     health-check:
