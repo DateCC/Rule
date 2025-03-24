@@ -165,7 +165,7 @@ rules:
   - RULE-SET,netflix_ip,🎥 NETFLIX,no-resolve
   - RULE-SET,telegram_ip,📲 Telegram,no-resolve
   - RULE-SET,cn_ip,🎯 直连
-  - MATCH,🐟 漏网之鱼
+  - MATCH,🐟 漏网之鱼,🎯 直连
 
 # 规则集
 rule-anchor:
