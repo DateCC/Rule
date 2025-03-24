@@ -25,3 +25,26 @@ IP-CIDR,1.0.0.1/32,no-resolve
 IP-CIDR,185.222.222.222/32,no-resolve
 IP-CIDR,208.67.222.222/32,no-resolve
 IP-CIDR,208.67.220.220/32,no-resolve
+# 内容：roblox
+# 域名关键字匹配
+DOMAIN-KEYWORD,roblox
+# 域名匹配
+DOMAIN,www.roblox.com
+DOMAIN,api.roblox.com
+DOMAIN,clientsettings.api.roblox.com
+DOMAIN,versioncompatibility.api.roblox.com
+DOMAIN,chat.roblox.com
+DOMAIN,chatsite.roblox.com
+DOMAIN,assetgame.roblox.com
+DOMAIN,setup.roblox.com
+DOMAIN,setup.rbxcdn.com
+DOMAIN,cdn.arkoselabs.com
+DOMAIN,roblox-api.arkoselabs.com
+DOMAIN,js.rbxcdn.com
+DOMAIN,static.rbxcdn.com
+DOMAIN,captcha.roblox.com
+# 域名后缀匹配
+DOMAIN-SUFFIX,roblox.com
+DOMAIN-SUFFIX,arkoselabs.com
+DOMAIN-SUFFIX,rbxcdn.com
+DOMAIN-SUFFIX,rbx.com
